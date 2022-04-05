@@ -29,10 +29,6 @@ title: 支持项目
 
 <br/>
 
-
-
-![image-20220312210631678](../.vuepress/public/img/image-20220312210631678.png)
-
 ## 赞助项目
 
 <a-alert type="success" message="对一直支持项目的师傅表示感谢啦，就好像偶尔给忙碌更新的我买杯奶茶～" description="" showIcon>
@@ -82,14 +78,7 @@ export default {
 <template>
   <a-row :gutter="16">
     <a-col :span="12">
-      <a-statistic title="Github星星" :value="22" style="margin-right: 50px">
-        <template #suffix>
-          <a-icon type="star" />
-        </template>
-      </a-statistic>
-    </a-col>
-    <a-col :span="12">
-      <a-statistic title="RMB" :value="20" class="demo-class">
+      <a-statistic title="RMB" :value="560" class="demo-class">
         <template #suffix>
           <a-icon type="fire" />
         </template>
@@ -97,3 +86,6 @@ export default {
     </a-col>
   </a-row>
 </template>
+
+
+[![Stargazers over time](https://starchart.cc/PeiQi0/PeiQi-WIKI-Book.svg)](https://starchart.cc/PeiQi0/PeiQi-WIKI-Book)

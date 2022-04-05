@@ -43,6 +43,13 @@ module.exports = [
 		]
 	},
 	{
+		title: "大华",
+		collapsable: true,
+		children:[
+			"/wiki/iot/大华/大华 城市安防监控系统平台管理 attachment_downloadByUrlAtt.action 任意文件下载漏洞",
+		]
+	},
+	{
 		title: "锐捷",
 		collapsable: true,
 		children:[
@@ -76,6 +83,7 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/iot/华为/Huawei HG659 lib 任意文件读取漏洞",
+			"/wiki/iot/华为/Huawei DG8045 deviceinfo 信息泄漏漏洞",
 		]
 	},
 	{
@@ -295,6 +303,13 @@ module.exports = [
 		collapsable: true,
 		children:[
 			"/wiki/iot/ZeroShell/ZeroShell 3.9.0 远程命令执行漏洞 CVE-2019-12725",
+		]
+	},
+	{
+		title: "TOTOLink",
+		collapsable: true,
+		children:[
+			"/wiki/iot/TOTOLink/TOTOLink 多个设备 download.cgi 远程命令执行漏洞 CVE-2022-25084",
 		]
 	},
 	{

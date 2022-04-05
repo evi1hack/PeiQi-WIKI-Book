@@ -8,7 +8,7 @@
 
 <a-checkbox checked>华天动力OA 8000版 </a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="华天动力-OA8000"</a-checkbox></br>
 
@@ -30,7 +30,6 @@ Accept: */*
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
 Connection: keep-alive
-Referer: http://www.baidu.com
 Cache-Control: max-age=0
 
 <buffalo-call> 

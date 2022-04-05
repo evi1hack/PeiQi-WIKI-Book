@@ -9,7 +9,7 @@
 
 <a-checkbox checked>泛微e-cology 8.0</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="泛微-协同办公OA"</a-checkbox></br>
 
@@ -25,8 +25,4 @@
 /Api/portal/elementEcodeAddon/getSqlData?sql=select%20@@version
 ```
 
-![img](../../../.vuepress/public/img/1640576046324-ba0b76d2-f7fa-4f26-b8e1-a5b38baed17a.png)
-
-
-
-若有收获，就点个赞吧
+![image-20220331145537127](../../../.vuepress/public/img/image-20220331145537127.png)

@@ -8,7 +8,7 @@
 
 <a-checkbox checked>Bitbucket Server > 4.8</a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>title="Log in - Bitbucket"</a-checkbox></br>
 
@@ -31,5 +31,4 @@
 /admin%20/avatars
 ```
 
-![img](../../../.vuepress/public/img/1646803761282-1d4e5f70-673a-4d11-b5a6-982a5d31f4d8.png)
-
+![image-20220318011106473](../../../.vuepress/public/img/image-20220318011106473.png)

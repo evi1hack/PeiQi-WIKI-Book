@@ -8,7 +8,7 @@
 
 <a-checkbox checked>通达OA v11.6 </a-checkbox></br>
 
-## FOFA
+## 网络测绘
 
 <a-checkbox checked>app="TDXK-通达OA" </a-checkbox></br>
 
@@ -22,7 +22,7 @@
 
 ```php
 POST /general/document/index.php/recv/register/insert HTTP/1.1
-Host: 101.89.158.158
+Host: 
 User-Agent: Go-http-client/1.1
 Content-Length: 77
 Content-Type: application/x-www-form-urlencoded
